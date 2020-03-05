@@ -6,4 +6,4 @@ I am a IASC student learning Github.
 ![]()
 
 ## blog post
-First sentence of blog post goes here...
+First sentence of blog post goes here... [blog post.md]
