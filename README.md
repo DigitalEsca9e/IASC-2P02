@@ -5,5 +5,5 @@
 I am a IASC student learning Github.
 ![]()
 
-## bLog post
+## blog post
 First sentence of blog post goes here...
