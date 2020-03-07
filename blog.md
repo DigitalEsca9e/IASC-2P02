@@ -10,6 +10,6 @@ The article “Modelling in digital humanities: Signs in context” written by A
 
 Context is an important factor which can be noticed in the articles of Moretti, Drucker, and Ciula and Eide as well. Represented in the graph below is a contextual look at each of the articles. 
 
-<iframe style='width: 801px; height: 1001px;' src='processing/index.html'> </iframe>
+<iframe style='width: 805px; height: 1005px;' src='processing/index.html'> </iframe>
 
 In terms of Multimodal representation of DH all articles hold similar weights in the conversation. However, each discusses a different aspect of the topic. Drucker holds the most weight in Subjectivity of data, Moretti then takes her place in New Interpretations from Models of digital humanities works, and Ciula and Eide dominate the conversation about Process and structures of creating models. As the industry grows it becomes more complex and to avoid falling behind we must keep up to date by asking comprehensive questions and giving definitive answers for which context is key. 
