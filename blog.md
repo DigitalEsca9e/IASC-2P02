@@ -15,5 +15,7 @@ Context is an important factor which can be noticed in the articles of Moretti, 
 
 In terms of Multimodal representation of DH all articles hold similar weights in the conversation. However, each discusses a different aspect of the topic. Drucker holds the most weight in Subjectivity of data, Moretti then takes her place in New Interpretations from Models of digital humanities works, and Ciula and Eide dominate the conversation about Process and structures of creating models. As the industry grows it becomes more complex and to avoid falling behind we must keep up to date by asking comprehensive questions and giving definitive answers for which context is key. 
 
-<h6 align="center"> Works Cited</h6>
-Ciula, Ariana and Eide, Oyvind. "Modelling in digital humanities: Signs in context." <em>Digital cholarship in the Humanities,</em> vol.    32, suppl. 1, 2017, pp.33-46
+<h4 align="center"> Works Cited</h4>
+Ciula, Ariana and Eide, Oyvind. "Modelling in digital humanities: Signs in context." <em>Digital cholarship in the Humanities,</em> vol. 32, suppl. 1, 2017, pp.33-46
+Drucker, Johanna. "Humanities Approaches to Graphical Display." <em> Digital Humanities Quarterly,</em> vol. 5, no.1, 2011. Accessesd 5 March 2020.
+Moretti, Franco. "Graphs, Maps, Trees: Abstract Models for Literary History". <em>New Life Revew,</em> vol. 24, Nov. 2003, pp. 67-93
