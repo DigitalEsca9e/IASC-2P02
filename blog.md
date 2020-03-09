@@ -13,7 +13,7 @@ Context is an important factor which can be noticed in the articles of Moretti, 
 
 <iframe style='width: 808px; height: 1008px;' src='processing/index.html'> </iframe>
 
-In terms of Multimodal representation of DH all articles hold similar weights in the conversation. However, each discusses a different aspect of the topic. Drucker holds the most weight in Subjectivity of data, Moretti then takes her place in New Interpretations from Models of digital humanities works, and Ciula and Eide dominate the conversation about Process and structures of creating models. As the industry grows it becomes more complex and to avoid falling behind we must keep up to date by asking comprehensive questions and giving definitive answers for which context is ke. 
+In terms of Multimodal representation of DH all articles hold similar weights in the conversation. However, each discusses a different aspect of the topic. Drucker holds the most weight in Subjectivity of data, Moretti then takes her place in New Interpretations from Models of digital humanities works, and Ciula and Eide dominate the conversation about Process and structures of creating models. As the industry grows it becomes more complex and to avoid falling behind we must keep up to date by asking comprehensive questions and giving definitive answers for which context is key. 
 
 <h4 align="center"> Works Cited</h4>
 Ciula, Ariana and Eide, Oyvind. "Modelling in digital humanities: Signs in context." <em>Digital cholarship in the Humanities,</em> vol. 32, suppl. 1, 2017, pp.33-46
