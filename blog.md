@@ -17,5 +17,7 @@ In terms of Multimodal representation of DH all articles hold similar weights in
 
 <h4 align="center"> Works Cited</h4>
 Ciula, Ariana and Eide, Oyvind. "Modelling in digital humanities: Signs in context." <em>Digital cholarship in the Humanities,</em> vol. 32, suppl. 1, 2017, pp.33-46
+
 Drucker, Johanna. "Humanities Approaches to Graphical Display." <em> Digital Humanities Quarterly,</em> vol. 5, no.1, 2011. Accessesd 5 March 2020.
+
 Moretti, Franco. "Graphs, Maps, Trees: Abstract Models for Literary History". <em>New Life Revew,</em> vol. 24, Nov. 2003, pp. 67-93
